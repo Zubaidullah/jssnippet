@@ -24,4 +24,4 @@ If you would like to contribute to this project, please fork this repository and
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-<a href="[https://github.com/Zubaidullah/jssnipet/License](https://github.com/Zubaidullah/jssnippet/blob/main/LICENSE)" target="_blank"> License </a>
+[License](https://github.com/Zubaidullah/jssnippet/blob/main/LICENSE)
