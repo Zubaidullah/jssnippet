@@ -19,7 +19,7 @@ Start adding, editing, and deleting code snippets.
 This project relies on the following dependencies:
 There is no dependencies.
 
-# Contributing
+# Contributing to the project
 If you would like to contribute to this project, please fork this repository and submit a pull request with your changes. Please ensure that your code is properly formatted and that all tests pass before submitting your pull request.
 
 # License
